@@ -1,9 +1,4 @@
 # Default ignored files
 /shelf/
-/.idea/workspace.xml
-compiler.xml
-jarRepositories.xml
-misc.xml
-vcs.xml
-workspace.xml
-../SeleniumTravel.iml
+/.idea/
+SeleniumTravel.iml
